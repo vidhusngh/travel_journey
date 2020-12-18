@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299539911038",
+    "project_id": "travel-journey-83127",
+    "storage_bucket": "travel-journey-83127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299539911038:android:13c5c5e617b10ce5c5232f",
+        "android_client_info": {
+          "package_name": "com.example.traveljourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299539911038-kjsjhro4v629h6qvsmo1olkag9t9humi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wmaYNhaXmGnT_MTRvO1-s15aInB20xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299539911038-kjsjhro4v629h6qvsmo1olkag9t9humi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
